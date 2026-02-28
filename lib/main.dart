@@ -10,7 +10,8 @@ void main() {
           centerTitle: true,
           backgroundColor: Colors.blueGrey[900],
         ),
-        body: Center(child: Image.asset('images/stone.jpg')),
+        body: Center(child: Image.asset('images/stone-96.png')),
+        backgroundColor: Colors.blue,
       ),
     ),
   );
